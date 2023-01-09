@@ -2,10 +2,9 @@
 
 [![Instagram)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfredonneto/)
 [![E-mail)](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eu.alfredoneto@hotmail.com?subject=Olá%20Alfredo)
-<div>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlfredoNetooficial&show_icons=true&theme=dark")
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoNetooficial&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
+![Alfredo github stats](https://github-readme-stats.vercel.app/api?username=AlfredoNetooficial&show_icons=true&theme=dark")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoNetooficial&layout=compact)](https://github.com/AlfredoNetooficial/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
